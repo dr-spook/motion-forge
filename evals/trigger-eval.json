@@ -1,0 +1,22 @@
+[
+  {"query": "fais-moi une vidéo pour présenter mon appli, je n'y connais rien en montage", "should_trigger": true},
+  {"query": "j'ai écrit mon script, tu peux en faire une vidéo animée de 30 secondes ?", "should_trigger": true},
+  {"query": "voici le README de mon SaaS et 4 captures d'écran, fais-moi une vidéo de lancement", "should_trigger": true},
+  {"query": "anime ma mascotte (SVG) qui explique comment marche mon produit", "should_trigger": true},
+  {"query": "j'ai deux personnages 2D en PNG, fais une petite histoire animée pour ma boutique", "should_trigger": true},
+  {"query": "make a TikTok for my app from these phone screenshots", "should_trigger": true},
+  {"query": "intro de 6 secondes avec le nom de ma chaîne tapé à la machine", "should_trigger": true},
+  {"query": "turn this repo into a launch video with captions", "should_trigger": true},
+  {"query": "redo this Linear promo video but for my brand", "should_trigger": true},
+  {"query": "re-render my video.json in square format for LinkedIn", "should_trigger": true},
+  {"query": "un GIF animé de mon outil pour mettre dans le README", "should_trigger": true},
+  {"query": "coupe les silences de ma vidéo filmée et ajoute des transitions", "should_trigger": false},
+  {"query": "génère une vidéo IA réaliste d'un chat astronaute", "should_trigger": false},
+  {"query": "fais-moi un logo pour mon application", "should_trigger": false},
+  {"query": "crée une présentation PowerPoint de mon projet", "should_trigger": false},
+  {"query": "quelle est la différence entre Remotion et HyperFrames ?", "should_trigger": false},
+  {"query": "écris-moi un post LinkedIn pour annoncer mon appli", "should_trigger": false},
+  {"query": "dessine-moi un personnage de manga en SVG", "should_trigger": false},
+  {"query": "rédige le README de mon projet", "should_trigger": false},
+  {"query": "monte ma vidéo de mariage avec de la musique", "should_trigger": false}
+]

@@ -1,0 +1,13 @@
+# Systèmes
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Paquets construits
+*.skill
+dist/
+
+# Travail local
+.env
+*.log
+video/
